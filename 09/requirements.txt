@@ -1,0 +1,5 @@
+findspark
+spark-nlp==3.4.4
+scikit-learn==1.0
+pyspark==3.2.1
+comet-ml==3.23.0
