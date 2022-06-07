@@ -1,4 +1,4 @@
-# Comet for Natural Language Processing - Example
+# Comet for Natural Language Processing
 
 The following example performs sentiment analysis of some text extracted from Twitter. The example compares a pretrained model and a custom model, and shows the results in Comet.
 
