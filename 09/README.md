@@ -7,7 +7,13 @@ As a use case, you will use the Twitter Sentiment Dataset, available on [Kaggle]
 The dataset contains 162,980 tweets, and for each tweet, it also provides the sentiment, which can be either negative (-1), neutral (0), and positive (+1). In our scenario, we will focus only on positive and negative sentiments, thus we will discard all the neutral tweets.
 
 ## Requirements
-* You need to configure the `.comet.config` file, as explained at [this link]('../')
+* You need to create a `.comet.config` file and place it in this directory:
+```
+[comet]
+api_key=YOUR_COMET_API_KEY
+workspace=YOUR_WORKSPACE
+project_name=YOUR_PROJECT_NAME
+```
 * You need to install the packages contained in the `requirements.txt` file. To install them, you can runn the following command:
 
 ```
