@@ -30,10 +30,11 @@ This is the code repository for Comet for Data Science, published by Packt. It c
 * [Docker Example](07/docker-example/)
 * [Test Models](07/test-models/)
 ## Part 3: Examples and Use Cases
-#### [Chapter 8 - Comet for Machine Learning](09/)
+#### [Chapter 8 - Comet for Machine Learning](08/)
 * [Model Selection](08/Model%20Selection.ipynb)
 * [SHAP Value](08/SHAP%20Value.ipynb)
-#### Chapter 9
+#### [Chapter 9 - Comet for Natural Language Processing](09/)
+* [Sentiment Analysis](09/)
 #### Chapter 10
 #### Chapter 11
 
