@@ -10,7 +10,7 @@ api_key=YOUR_COMET_API_KEY
 workspace=YOUR_WORKSPACE
 project_name=YOUR_PROJECT_NAME
 ```
-* You need to install the packages contained in the `requirements.txt` file. To install them, you can runn the following command:
+* You need to install the packages contained in the `requirements.txt` file. To install them, you can run the following command:
 
 ```
 pip install -r requirements.txt
