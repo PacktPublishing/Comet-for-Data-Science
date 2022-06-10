@@ -1,6 +1,6 @@
 # Model Evaluation in Comet
 
-This chapter contains two use cases.
+This chapter contains an example to perform model evaluation using `scikit-learn`.
 
 ## Requirements
 * You need to create a `.comet.config` file and place it in this directory:
@@ -18,4 +18,4 @@ pip install -r requirements.txt
 
 ## Results in Comet
 You can see the results in Comet at the following link:
-* [Dashboard](https://www.comet.ml/packt/first-use-case/)
+* [Dashboard](https://www.comet.ml/packt/model-evaluation)

@@ -1,6 +1,7 @@
 # Exploratory Data Analysis in Comet
 
-This chapter contains two use cases.
+This chapter contains an example which builds two EDA reports in Comet, 
+the first one uses `pandas-profile` and the second uses `sweetviz`.
 
 ## Requirements
 * You need to create a `.comet.config` file and place it in this directory:
@@ -18,4 +19,4 @@ pip install -r requirements.txt
 
 ## Results in Comet
 You can see the results in Comet at the following link:
-* [Dashboard](https://www.comet.ml/packt/model-evaluation)
+* [Dashboard](https://www.comet.ml/packt/pandas-profiles)
