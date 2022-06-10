@@ -1,0 +1,8 @@
+comet-ml==3.23.0  
+matplotlib==3.4.3  
+numpy==1.19.5  
+pandas==1.3.4  
+scikit-learn==1.0 
+pandas-profiling==3.1.0 
+seaborn==0.11.2 
+sweetviz==2.1.3 
