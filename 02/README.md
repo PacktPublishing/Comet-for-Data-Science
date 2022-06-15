@@ -19,4 +19,4 @@ pip install -r requirements.txt
 
 ## Results in Comet
 You can see the results in Comet at the following link:
-* [Dashboard](https://www.comet.ml/packt/pandas-profiles)
+* [Dashboard](https://www.comet.ml/packt/pandas-profiling)
