@@ -1,6 +1,6 @@
 # Comet for Natural Language Processing
 
-The following example performs sentiment analysis of Disneyland Reviews Dataset, available on Kaggle at (this link)[https://www.kaggle.com/datasets/arushchillar/disneyland-reviews]  and released under the  CC0: Public Domain license. 
+The following example performs sentiment analysis of Disneyland Reviews Dataset, available on Kaggle at [this link](https://www.kaggle.com/datasets/arushchillar/disneyland-reviews)  and released under the  CC0: Public Domain license. 
 
 The dataset contains  42,656 reviews of 3 Disneyland branches (- Paris, California and Hong Kong), posted by visitors on Trip Advisor. For each review, it also provides the rating, which ranges from 1 (totally unsatisfied) to 5 (satisfied). We group ratings into two categories: positive, if the rating is greater than 2, and negative, otherwise. The example compares a pretrained model and a custom model, and shows the results in Comet.
 

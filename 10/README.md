@@ -1,7 +1,7 @@
 # Comet for Deep Learning
 
 The following example performs image classification. 
-As a use case, you will use the Fashion-MNIST, released by Zalando Research and available on GitHub at the (this link)[https://github.com/zalandoresearch/fashion-mnist] and released under the MIT license. The dataset contains a training set of 60,000 examples and a test set of 10,000 examples. Each example consists of a 28x28 grayscale image, associated with a label from one of the 10 classes.
+As a use case, you will use the Fashion-MNIST, released by Zalando Research and available on GitHub at the [this link](https://github.com/zalandoresearch/fashion-mnist) and released under the MIT license. The dataset contains a training set of 60,000 examples and a test set of 10,000 examples. Each example consists of a 28x28 grayscale image, associated with a label from one of the 10 classes.
 
 ## Requirements
 * You need to create a `.comet.config` file and place it in this directory:
