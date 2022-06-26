@@ -1,10 +1,8 @@
 # Comet for Natural Language Processing
 
-The following example performs sentiment analysis of some text extracted from Twitter. The example compares a pretrained model and a custom model, and shows the results in Comet.
+The following example performs sentiment analysis of Disneyland Reviews Dataset, available on Kaggle at (this link)[https://www.kaggle.com/datasets/arushchillar/disneyland-reviews]  and released under the  CC0: Public Domain license. 
 
-As a use case, you will use the Twitter Sentiment Dataset, available on [Kaggle](https://www.kaggle.com/datasets/saurabhshahane/twitter-sentiment-dataset?resource=download) and released under the Attribution 4.0 International (CC BY 4.0) license.
-
-The dataset contains 162,980 tweets, and for each tweet, it also provides the sentiment, which can be either negative (-1), neutral (0), and positive (+1). In our scenario, we will focus only on positive and negative sentiments, thus we will discard all the neutral tweets.
+The dataset contains  42,656 reviews of 3 Disneyland branches (- Paris, California and Hong Kong), posted by visitors on Trip Advisor. For each review, it also provides the rating, which ranges from 1 (totally unsatisfied) to 5 (satisfied). We group ratings into two categories: positive, if the rating is greater than 2, and negative, otherwise. The example compares a pretrained model and a custom model, and shows the results in Comet.
 
 ## Requirements
 * You need to create a `.comet.config` file and place it in this directory:
