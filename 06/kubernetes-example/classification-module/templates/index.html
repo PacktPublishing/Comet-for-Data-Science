@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Diamond Classification</title>
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+    <link rel= "stylesheet" type= "text/css" href= "{{ url_for('static',filename='styles/style.css') }}">
+  </head>
+  <body>
+    
+    <div class="textbox">
+      <form action="{{ url_for('predict') }}" method='POST'>
+        <p>Diamond Classification</p>
+        <div class="item">
+          <label for="name">Carat<span>*</span></label><br/>
+          <input id="carat" type="text" name="carat" required/>
+        </div>
+
+        <div class="item">
+          <label for="name">Color<span>*</span></label><br/>
+          <select name="color">
+              <option selected value="" disabled selected></option>
+              <option value="D" >D</option>
+              <option value="E">E</option>
+              <option value="F">F</option>
+              <option value="G">G</option>
+              <option value="H">H</option>
+              <option value="I">I</option>
+              <option value="J">J</option>
+          </select>
+      </div>
+
+      <div class="item">
+          <label for="name">Clarity<span>*</span></label><br/>
+          <select name="clarity">
+              <option selected value="" disabled selected></option>
+              <option value="I1" >I1</option>
+              <option value="IF">IF</option>
+              <option value="SI1">SI1</option>
+              <option value="SI2">SI2</option>
+              <option value="VS1">VS1</option>
+              <option value="VS2">VS2</option>
+              <option value="VVS1">VVS1</option>
+              <option value="VVS2">VVS2</option>
+          </select>
+      </div>
+
+        <div class="item">
+            <label for="name">Depth<span>*</span></label><br/>
+            <input id="depth" type="text" name="depth" required/>
+        </div>
+
+        <div class="item">
+            <label for="name">Table<span>*</span></label><br/>
+            <input id="table" type="text" name="table" required/>
+        </div>
+
+        <div class="item">
+            <label for="name">Price<span>*</span></label><br/>
+            <input id="price" type="text" name="price" required/>
+        </div>
+
+        <div class="item">
+            <label for="name">X<span>*</span></label><br/>
+            <input id="x" type="text" name="x" required/>
+        </div>
+
+        <div class="item">
+            <label for="name">Y<span>*</span></label><br/>
+            <input id="y" type="text" name="y" required/>
+        </div>
+
+        <div class="item">
+            <label for="name">Z<span>*</span></label><br/>
+            <input id="z" type="text" name="z" required/>
+        </div>
+
+        <div class="btn-block">
+          <button type="submit" href="/">CLASSIFY</button>
+        </div>
+      </form>
+    </div>
+  </body>
+</html>

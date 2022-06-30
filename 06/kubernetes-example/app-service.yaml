@@ -1,0 +1,16 @@
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: diamonds
+  labels:
+    app: dc
+spec:
+  ports:
+    - port: 6002
+      protocol: TCP
+      targetPort: 5000
+  type: LoadBalancer
+  selector:
+    app: dc
+  

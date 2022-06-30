@@ -1,0 +1,36 @@
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: diamonds
+  labels:
+    app: dc
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: dc
+  template:
+    metadata:
+      labels:
+        app: dc
+    spec:
+      containers:
+        - name: prediction
+          image: diamonds-prediction
+          ports:
+            - containerPort: 5000
+          imagePullPolicy: Never
+          env:
+            - name : COMET_API_KEY 
+              valueFrom: 
+                secretKeyRef: 
+                  key: comet_api_key
+                  name: comet-secrets
+            - name : COMET_WORKSPACE 
+              valueFrom: 
+                secretKeyRef: 
+                  key: comet_workspace
+                  name: comet-secrets
+        
+            

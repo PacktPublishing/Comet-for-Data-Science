@@ -1,0 +1,4 @@
+flask
+pandas
+requests
+scikit-learn

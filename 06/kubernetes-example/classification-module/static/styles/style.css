@@ -1,0 +1,101 @@
+html, body {
+    min-height: 100%;
+}
+
+body, div, form, input, select, label {
+    padding: 0;
+    margin: 0;
+    outline: none;
+    font-family: Roboto, Arial, sans-serif;
+    font-size: 14px;
+    color: #666;
+    line-height: 22px;
+}
+
+
+.textbox {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: inherit;
+    padding: 20px;
+}
+
+form, .mainbox {
+    width: 50%;
+    padding: 20px;
+    border-radius: 6px;
+    background: #fff;
+    box-shadow: 0 0 8px #40B7AD;
+}
+
+input, select {
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+input, select {
+    width: calc(100% - 10px);
+    padding: 5px;
+}
+
+
+.item:hover p, .item:hover i, input:hover::placeholder {
+    color: #40B7AD;
+}
+
+.item input:hover, .item select:hover {
+    border: 1px solid transparent;
+    box-shadow: 0 0 3px 0 #40B7AD;
+    color: #40B7AD;
+}
+
+.item {
+    position: relative;
+    margin: 10px 0;
+}
+
+.item span {
+    color: red;
+}
+
+
+.item i {
+    right: 1%;
+    top: 30px;
+    z-index: 1;
+}
+
+input[type=checkbox] {
+    display: none;
+}
+
+.btn-block {
+    margin-top: 10px;
+    text-align: center;
+}
+
+button {
+    width: 150px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background: #40B7AD;
+    font-size: 16px;
+    color: #fff;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #40B7AD;
+}
+
+.target {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    border-radius: 6px;
+    background: #40B7AD;
+    color: #fff;
+}
