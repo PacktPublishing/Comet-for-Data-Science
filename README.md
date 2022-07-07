@@ -35,6 +35,9 @@ This is the code repository for Comet for Data Science, published by Packt. It c
 * [SHAP Value](08/SHAP%20Value.ipynb)
 #### [Chapter 9 - Comet for Natural Language Processing](09/)
 * [Sentiment Analysis](09/)
-#### Chapter 10
-#### Chapter 11
+#### [Chapter 10 - Comet for Deep Learning](10/)
+* [Deep Learning](10/Deep_Learning.ipynb)
+#### [Chapter 11 - Comet for Time Series Analysis](11/)
+* [Basic Concepts](11/Basic%20concepts%20on%20Time%20Series%20.ipynb)
+* [Time Series Analysis](11/Time%20Series%20Analysis.ipynb)
 
