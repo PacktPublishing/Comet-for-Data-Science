@@ -1,6 +1,6 @@
 # Building a narrative in Comet
 
-This chapter contains two advanced use cases in Python
+This chapter contains examples to build a narrative in Comet.
 
 ## Requirements
 * For the examples in Python, you need to create a `.comet.config` file and place it in this directory:
