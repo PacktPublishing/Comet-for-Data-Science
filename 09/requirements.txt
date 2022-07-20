@@ -1,4 +1,4 @@
-findspark
+findspark==1.4.2
 spark-nlp==3.4.4
 scikit-learn==1.0
 pyspark==3.2.1

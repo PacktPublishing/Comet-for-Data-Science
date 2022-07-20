@@ -1,0 +1,6 @@
+comet-ml==3.23.0 
+matplotlib==3.4.3 
+numpy==1.19.5 
+pandas==1.3.4  
+scikit-learn==1.0 
+shap==0.40.0 
