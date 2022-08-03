@@ -1,8 +1,6 @@
 # Comet-for-Data-Science
 This is the code repository for Comet for Data Science, published by Packt. It contains all the supporting project files necessary to work through the book from start to finish.
 
-## About the book
-## Installation
 ## Comet for Data Science - code examples used in the book.
 
 ## Part 1: Getting Started with Comet
