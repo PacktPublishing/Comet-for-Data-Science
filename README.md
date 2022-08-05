@@ -52,33 +52,33 @@ With the following software and hardware list you can run all code files present
 | ------------------------------------ | -----------------------------------|
 | Python 3.8                           | Windows, Mac OS X, and Linux (Any) |
 | Python libraries:
-0.	comet-ml==3.23.0 
-1.	findspark==1.4.2
-2.	gradio==3.2.2
-3.	matplotlib==3.4.3 
-4.	numpy==1.19.5 
-5.	pandas==1.3.4 
-6.	pandas-profiling==3.1.0  
-7.	pyspark==3.2.1
-8.	scikit-learn==1.0
-9.	seaborn==0.11.2   
-10.	shap==0.40.0
-11.	spark-nlp==3.4.4
-12.	sweetviz==2.1.3
+|0.	comet-ml==3.23.0 
+|1.	findspark==1.4.2
+|2.	gradio==3.2.2
+|3.	matplotlib==3.4.3 
+|4.	numpy==1.19.5 
+|5.	pandas==1.3.4 
+|6.	pandas-profiling==3.1.0  
+|7.	pyspark==3.2.1
+|8.	scikit-learn==1.0
+|9.	seaborn==0.11.2   
+|10.	shap==0.40.0
+|11.	spark-nlp==3.4.4
+|12.	sweetviz==2.1.3
 |13. tensorflow==2.8.2                 | Windows, macOS, or Linux If you are using macOS, 
                                          please make sure that the chip is not Apple M1.
                                          To overcome this problem, you can use Google Colab|										 
 |Java SE Development Kit 17.0.2        | Windows, macOS, or Linux |
- (optional for Chapter 4, Workspaces,
- Projects, Experiments, and Models)    |                                     |
+|(optional for Chapter 4, Workspaces,
+| Projects, Experiments, and Models)    |                                     |
 |Java libraries (optional for Chapter 4,
- Workspaces, Projects, Experiments, and Models):
-1.	comet-java-sdk-1.1.10 
-    weka 3.8.6 |
+|Workspaces, Projects, Experiments, and Models):
+|1.	comet-java-sdk-1.1.10 
+|    weka 3.8.6 |
 |R software (optional)|Windows, macOS, or Linux|
 |R libraries (optional): |Windows, macOS, or Linux|
-1.	caret 
-2.	cometr 
+|1.	caret 
+|2.	cometr 
 |Docker|Windows, macOS, or Linux|
 |Kubernetes|Windows, macOS, or Linux|
 |git|Windows, macOS, or Linux|
