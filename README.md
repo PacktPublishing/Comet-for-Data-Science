@@ -127,7 +127,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 
 ### Related products <Other books you may enjoy>
-* Applied Machine Learning Explainability Techniques [[Packt]] (https://www.packtpub.com/product/applied-machine-learning-explainability-techniques/9781803246154?utm_source=github&utm_medium=repository&utm_campaign=9781803246154) [[Amazon]](https://www.amazon.com/dp/1803246154)
+* Applied Machine Learning Explainability Techniques [[Packt]](https://www.packtpub.com/product/applied-machine-learning-explainability-techniques/9781803246154?utm_source=github&utm_medium=repository&utm_campaign=9781803246154) [[Amazon]](https://www.amazon.com/dp/1803246154)
 
 * Practical Deep Learning at Scale with MLflow [[Packt]](https://www.packtpub.com/product/practical-deep-learning-at-scale-with-mlflow/9781803241333?utm_source=github&utm_medium=repository&utm_campaign=9781803241333) [[Amazon]](https://www.amazon.com/dp/1803241330)
 
