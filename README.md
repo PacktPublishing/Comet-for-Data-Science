@@ -81,20 +81,12 @@ Java 8 (required for Chapter 9, Comet for Natural Language Processing)
 Apache Spark 3.1.2
 
 
-The complete package dependencies are listed in each chapter's requirements.txt
-file or the conda.yaml file in this book's GitHub repository. All code has been tested
-to run successfully in a macOS or Linux environment. If you are a Microsoft Windows
-user, it is recommended to install WSL2 to run the bash scripts provided in this book:
-https://www.windowscentral.com/how-install-wsl2-windows-10. 
-It is a known issue that the MLflow CLI does not work properly in the Microsoft Windows
-command line. 
+You should notice that the code examples described in Chapter 4, Workspaces, Projects, Experiments,
+and Models, require a different version of Java with respect to those described in Chapter 9, Comet
+for Natural Language Processing.
+In addition, to make Comet work, you need to sign up to the Comet platform (https://www.
+comet.com/signup) and create an account. 
 
-Starting from Chapter 3, Tracking Models, Parameters, and Metrics of this book, you
-will also need to have Docker Desktop (https://www.docker.com/products/
-docker-desktop/) installed to set up a fully-fledged local MLflow tracking server for executing the code in this book. AWS SageMaker is needed in Chapter 8, Deploying a
-DL Inference Pipeline at Scale, for the cloud deployment example. VS Code version 1.60 or above (https://code.visualstudio.com/updates/v1_60) is used as the
-integrated development environment (IDE) in this book. Miniconda version 4.10.3 or above (https://docs.conda.io/en/latest/miniconda.html) is used
-throughout this book for creating and activating virtual environments.
 
 ## Part 1: Getting Started with Comet
 #### [Chapter 1 - An overview of Comet](01/)
@@ -132,13 +124,13 @@ throughout this book for creating and activating virtual environments.
 * [Basic Concepts](11/Basic%20concepts%20on%20Time%20Series%20.ipynb)
 * [Time Series Analysis](11/Time%20Series%20Analysis.ipynb)
 
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packt-cdn.com/downloads/9781803241333_ColorImages.pdf).
+We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packt-cdn.com/downloads/9781801814430_ColorImages.pdf).
 
 
 ### Related products <Other books you may enjoy>
-* Engineering MLOps [[Packt]](https://www.packtpub.com/product/engineering-mlops/9781800562882?utm_source=github&utm_medium=repository&utm_campaign=9781800562882) [[Amazon]](https://www.amazon.com/dp/B08PFN73CM)
+* Applied Machine Learning Explainability Techniques [[Packt]] (https://www.packtpub.com/product/applied-machine-learning-explainability-techniques/9781803246154?utm_source=github&utm_medium=repository&utm_campaign=9781803246154) [[Amazon]](https://www.amazon.com/dp/1803246154)
 
-* Machine Learning Engineering with Python [[Packt]](https://www.packtpub.com/product/machine-learning-engineering-with-python/9781801079259?utm_source=github&utm_medium=repository&utm_campaign=9781801079259) [[Amazon]](https://www.amazon.com/dp/B09CHHK2RJ)
+* Practical Deep Learning at Scale with MLflow [[Packt]](https://www.packtpub.com/product/practical-deep-learning-at-scale-with-mlflow/9781803241333?utm_source=github&utm_medium=repository&utm_campaign=9781803241333) [[Amazon]](https://www.amazon.com/dp/1803241330)
 
 ## Get to Know the Author
 **Angelica Lo Duca**
