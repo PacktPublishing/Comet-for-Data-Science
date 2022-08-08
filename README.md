@@ -47,10 +47,7 @@ With the following software and hardware list you can run all code files present
 
 ### Software and Hardware List
 
-
-| Software required                    | OS required                        |
-| ------------------------------------ | -----------------------------------|
-| Python 3.8   Python libraries:        Windows, Mac OS X, and Linux (Any) |                                                       |
+Python 3.8   Python libraries:                                                         |
 0.	comet-ml==3.23.0 
 1.	findspark==1.4.2
 2.	gradio==3.2.2
@@ -64,25 +61,27 @@ With the following software and hardware list you can run all code files present
 10.	shap==0.40.0
 11.	spark-nlp==3.4.4
 12.	sweetviz==2.1.3
-13. tensorflow==2.8.2                 | Windows, macOS, or Linux If you are using macOS, 
-                                         please make sure that the chip is not Apple M1.
-                                         To overcome this problem, you can use Google Colab|										 
-|Java SE Development Kit 17.0.2        | Windows, macOS, or Linux |
-(optional for Chapter 4, Workspaces,
- Projects, Experiments, and Models)                                        |
-Java libraries (optional for Chapter 4,
-|Workspaces, Projects, Experiments, and Models):
-|1.	comet-java-sdk-1.1.10 
-|    weka 3.8.6 |
-|R software (optional)|Windows, macOS, or Linux|
-|R libraries (optional): |Windows, macOS, or Linux|
-|1.	caret 
-|2.	cometr 
-|Docker|Windows, macOS, or Linux|
-|Kubernetes|Windows, macOS, or Linux|
-|git|Windows, macOS, or Linux|
-|Java 8 (required for Chapter 9, Comet for Natural Language Processing)|Windows, macOS, or Linux|
-|Apache Spark 3.1.2|Windows, macOS, or Linux|
+
+13. tensorflow==2.8.2                
+Windows, macOS, or Linux If you are using macOS, please make sure that the chip is not Apple M1. To overcome this problem, you can use Google Colab	
+
+Java SE Development Kit 17.0.2 (optional for Chapter 4, Workspaces, Projects, Experiments, and Models)    
+|
+Java libraries (optional for Chapter 4,|Workspaces, Projects, Experiments, and Models):
+1.	comet-java-sdk-1.1.10 
+    weka 3.8.6 
+   
+R software (optional)
+
+R libraries (optional): 
+1.	caret 
+2.	cometr 
+
+Docker
+Kubernetes
+git
+Java 8 (required for Chapter 9, Comet for Natural Language Processing)
+Apache Spark 3.1.2
 
 The majority of the code in this book can be implemented and executed using the open
 source MLflow tool, with a few exceptions where a 14-day full Databricks trial is needed
