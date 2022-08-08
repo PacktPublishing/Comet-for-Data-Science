@@ -80,20 +80,6 @@ git
 Java 8 (required for Chapter 9, Comet for Natural Language Processing)
 Apache Spark 3.1.2
 
-The majority of the code in this book can be implemented and executed using the open
-source MLflow tool, with a few exceptions where a 14-day full Databricks trial is needed
-(sign up at https://databricks.com/try-databricks) along with an AWS
-Free Tier account (sign up at https://aws.amazon.com/free/). The following lists
-some major software packages covered in this book:
-
-* MLflow 1.20.2 and above
-* Python 3.8.10
-* Lightning-flash 0.5.0
-* Transformers 4.9.2
-* SHAP 0.40.0
-* PySpark 3.2.1
-* Ray[tune] 1.9.2
-* Optuna 2.10.0
 
 The complete package dependencies are listed in each chapter's requirements.txt
 file or the conda.yaml file in this book's GitHub repository. All code has been tested
