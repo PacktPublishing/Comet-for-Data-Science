@@ -84,8 +84,7 @@ Apache Spark 3.1.2
 You should notice that the code examples described in Chapter 4, Workspaces, Projects, Experiments,
 and Models, require a different version of Java with respect to those described in Chapter 9, Comet
 for Natural Language Processing.
-In addition, to make Comet work, you need to sign up to the Comet platform (https://www.
-comet.com/signup) and create an account. 
+In addition, to make Comet work, you need to sign up to the Comet platform (https://www.comet.com/signup) and create an account. 
 
 
 ## Part 1: Getting Started with Comet
