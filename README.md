@@ -30,20 +30,17 @@ All of the code is organized into folders.
 
 The code will look like the following:
 ```
-Xclient = boto3.client('sagemaker-runtime')
-response = client.invoke_endpoint(
-EndpointName=app_name,
-ContentType=content_type,
-Accept=accept,
-Body=payload
-)
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+from datetime import datetime
 ```
 
 **Following is what you need for this book:**
 This book is for anyone who has programming experience, and wants to learn how to manage and optimize a complete data science lifecycle using Comet and other DevOps platforms. 
 Although an understanding of basic data science concepts and programming concepts is needed, no prior knowledge of Comet and DevOps is required.
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-10).
+With the following software and hardware list you can run all code files present in the book (Chapter 1-11).
 
 ### Software and Hardware List
 
