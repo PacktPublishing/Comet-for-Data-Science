@@ -50,8 +50,9 @@ With the following software and hardware list you can run all code files present
 
 | Software required                    | OS required                        |
 | ------------------------------------ | -----------------------------------|
-| Python 3.8                           | Windows, Mac OS X, and Linux (Any) |
- Python libraries:                                                          |
+| Python 3.8                          
+  Python librares                      | Windows, Mac OS X, and Linux (Any) |
+                                                        |
 |0.	comet-ml==3.23.0 
 |1.	findspark==1.4.2
 |2.	gradio==3.2.2
