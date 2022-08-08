@@ -113,25 +113,6 @@ DL Inference Pipeline at Scale, for the cloud deployment example. VS Code versio
 integrated development environment (IDE) in this book. Miniconda version 4.10.3 or above (https://docs.conda.io/en/latest/miniconda.html) is used
 throughout this book for creating and activating virtual environments.
 
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packt-cdn.com/downloads/9781803241333_ColorImages.pdf).
-
-
-### Related products <Other books you may enjoy>
-* Engineering MLOps [[Packt]](https://www.packtpub.com/product/engineering-mlops/9781800562882?utm_source=github&utm_medium=repository&utm_campaign=9781800562882) [[Amazon]](https://www.amazon.com/dp/B08PFN73CM)
-
-* Machine Learning Engineering with Python [[Packt]](https://www.packtpub.com/product/machine-learning-engineering-with-python/9781801079259?utm_source=github&utm_medium=repository&utm_campaign=9781801079259) [[Amazon]](https://www.amazon.com/dp/B09CHHK2RJ)
-
-## Get to Know the Author
-**Angelica Lo Duca**
-is a researcher at the Institute of Informatics and Telematics of the National Research
-Council, Italy. She is also an external professor of data journalism at the University of Pisa. Her research
-includes data science, data journalism, and web applications. She used to work on network security,
-semantic web, linked data, and blockchain. She has published more than 40 scientific papers at national
-and international conferences and journals and has participated in many international projects and
-events, including as a member of the Program Committee. She is also part of the editorial team of
-the HighTech And Innovation Journal. She owns a personal blog, where she publishes articles on her
-research interests.
-
 ## Part 1: Getting Started with Comet
 #### [Chapter 1 - An overview of Comet](01/)
 * [First Use Case](01/first-use-case)
@@ -167,4 +148,25 @@ research interests.
 #### [Chapter 11 - Comet for Time Series Analysis](11/)
 * [Basic Concepts](11/Basic%20concepts%20on%20Time%20Series%20.ipynb)
 * [Time Series Analysis](11/Time%20Series%20Analysis.ipynb)
+
+We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packt-cdn.com/downloads/9781803241333_ColorImages.pdf).
+
+
+### Related products <Other books you may enjoy>
+* Engineering MLOps [[Packt]](https://www.packtpub.com/product/engineering-mlops/9781800562882?utm_source=github&utm_medium=repository&utm_campaign=9781800562882) [[Amazon]](https://www.amazon.com/dp/B08PFN73CM)
+
+* Machine Learning Engineering with Python [[Packt]](https://www.packtpub.com/product/machine-learning-engineering-with-python/9781801079259?utm_source=github&utm_medium=repository&utm_campaign=9781801079259) [[Amazon]](https://www.amazon.com/dp/B09CHHK2RJ)
+
+## Get to Know the Author
+**Angelica Lo Duca**
+is a researcher at the Institute of Informatics and Telematics of the National Research
+Council, Italy. She is also an external professor of data journalism at the University of Pisa. Her research
+includes data science, data journalism, and web applications. She used to work on network security,
+semantic web, linked data, and blockchain. She has published more than 40 scientific papers at national
+and international conferences and journals and has participated in many international projects and
+events, including as a member of the Program Committee. She is also part of the editorial team of
+the HighTech And Innovation Journal. She owns a personal blog, where she publishes articles on her
+research interests.
+
+
 
