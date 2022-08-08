@@ -1,6 +1,6 @@
 # Comet for Data Science
 
-<a href="https://www.packtpub.com/product/practical-deep-learning-at-scale-with-mlflow/9781803241333?utm_source=github&utm_medium=repository&utm_campaign=9781803241333"><img src="https://static.packt-cdn.com/products/9781803241333/cover/smaller" alt="Comet for Data Science" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/product/practical-deep-learning-at-scale-with-mlflow/9781803241333?utm_source=github&utm_medium=repository&utm_campaign=9781803241333"><img src="https://static.packt-cdn.com/products/9781801814430/cover/smaller" alt="Comet for Data Science" height="256px" align="right"></a>
 
 This is the code repository for [Comet for Data Science](https://www.packtpub.com/product/practical-deep-learning-at-scale-with-mlflow/9781803241333?utm_source=github&utm_medium=repository&utm_campaign=9781803241333), published by Packt.
 
