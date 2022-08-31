@@ -1,8 +1,8 @@
 # Comet for Data Science
 
-<a href="https://www.packtpub.com/product/comet-for-data-science/9781801814430?_ga=2.150867446.190270037.1661928581-1058010958.1658349823" alt="Comet for Data Science" height="256px" align="right"></a>
+<a href="https://static.packt-cdn.com/products/9781801814430/cover/smaller" alt="Comet for Data Science" height="256px" align="right"></a>
 
-This is the code repository for [Comet for Data Science](https://www.packtpub.com/product/practical-deep-learning-at-scale-with-mlflow/9781803241333?utm_source=github&utm_medium=repository&utm_campaign=9781803241333), published by Packt.
+This is the code repository for [Comet for Data Science]([https://www.packtpub.com/product/practical-deep-learning-at-scale-with-mlflow/9781803241333?utm_source=github&utm_medium=repository&utm_campaign=9781803241333](https://www.packtpub.com/product/comet-for-data-science/9781801814430?_ga=2.150867446.190270037.1661928581-1058010958.1658349823)), published by Packt.
 
 **Enhance your ability to manage and optimize the life cycle of your data science project**
 
